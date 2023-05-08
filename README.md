@@ -16,3 +16,5 @@ A USB webcam
 -    Time
 -    Debbugging 
 -    More work that buying a cheap monitor from say Amazon
+
+
